@@ -1,6 +1,11 @@
 # 💫 About Me:
 Hello! I'm
-<strong>Rayhan Aulia Ramadhan</strong>, a 10th-grade student at.<br>I'm Learning Python, deep dive into World of Data and sometimes Develop a Website with Vibe Coding<br>This is my Portofolio link: https://raysportofolio.web.app/
+<strong>Rayhan Aulia Ramadhan</strong>, a 10th-grade student at <strong>SMKN 1 Pangandaran</strong></a>, where I'm pursuing my passion for technology through the Software Engineering (RPL) major.<br>My coding journey began just a year ago with
+              Python — and I instantly fell in love with the
+                                power of turning logic into something tangible.
+                                These days, I'm particularly drawn to
+                                <strong>Data Analyst</strong> and exploring the
+                                world of <strong>Web Development</strong>.<br>This is my Portofolio link: https://raysportofolio.web.app/
 
 
 ## 🌐 Socials:
