@@ -4,12 +4,7 @@ Hello! I'm
 
 <br>My coding journey began just a year ago with Python — and I instantly fell in love with the power of turning logic into something tangible. These days, I'm particularly drawn to <strong>Data Analyst</strong> and exploring the world of <strong>Web Development</strong>.
 
-                            <p>
-                                I believe great software is not just functional
-                                — it's elegant, purposeful, and built with care.
-                                I bring that same philosophy to everything I
-                                create.
-                            </p>
+<br> I believe great software is not just functional — it's elegant, purposeful, and built with care. I bring that same philosophy to everything I ccreate.
 
 <br>This is my Portofolio link: https://raysportofolio.web.app/
 
